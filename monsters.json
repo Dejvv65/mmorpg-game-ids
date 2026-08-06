@@ -3,17 +3,17 @@
         "id": 11501,
         "name": "Wilcza Paszcza (p2) 44lvl",
         "map": 2538,
-        "type": "elite",
         "x": 19,
-        "y": 17
+        "y": 17,
+        "type": "elite"
     },
 
     {
         "id": 260940,
         "name": "Bazyliszek Mroku (s.4) 63lvl",
         "map": 202,
-        "type": "elite",
         "x": 17,
-        "y": 38
+        "y": 38,
+        "type": "elite"
     }
 ]
