@@ -1,5 +1,13 @@
 [
     {
+        "id": 174801,
+        "name": "Mroczny Puff 38lvl",
+        "map": 1665,
+        "x": 19,
+        "y": 19,
+        "type": "elite"
+    },
+    {
         "id": 11501,
         "name": "Wilcza Paszcza (p2) 44lvl",
         "map": 2538,
