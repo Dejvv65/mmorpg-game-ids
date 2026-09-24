@@ -40,6 +40,14 @@
         "type": "elite"
     },
     {
+        "id": 256372,
+        "name": "Zorg Jednooki Baron (33lvl)",
+        "map": 2532,
+        "x": 33,
+        "y": 15,
+        "type": "elite2"
+    },
+    {
         "id": 256374,
         "name": "Owadzia matka (58lvl)",
         "map": 5395,
